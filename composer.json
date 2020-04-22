@@ -1,5 +1,6 @@
 {
-  "name": "marcelog/pami",
+  "name": "kibermat/pami",
+  "original": "marcelog/pami",
   "type": "library",
   "description": "Asterisk Manager Interface (AMI) client for PHP, event driven, object oriented",
   "keywords": ["asterisk","ami","client","telephony","voip","event","action","manager","monitor"],
